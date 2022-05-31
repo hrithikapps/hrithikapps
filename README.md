@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!-- <a href="#"><img width="100%" height="auto" src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" height="175px"/></a> -->
 
@@ -20,14 +20,6 @@
 
 <br/>
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/kumar-hrithik/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/KumarHrithik10"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_the_wicked_soul/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p> 
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Languages and Tools:</p> 
 <p align="left"> 
@@ -56,12 +48,23 @@
 
 ## 📊GitHub Stats :
   <br/>
-    <a href="https://github.com/hrithikapps/github-readme-stats"><img alt="Kumar Hrithik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hrithikapps&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a style="align-items: center" href="https://github.com/hrithikapps/github-readme-stats"><img alt="Kumar Hrithik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hrithikapps&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/hrithikapps/github-readme-stats"><img alt="Kumar Hrithik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithikapps&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/kumar-hrithik/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/KumarHrithik10"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/_the_wicked_soul/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p> 
 <br/>
 <br/>
 
