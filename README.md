@@ -11,7 +11,7 @@
 
 <br/>
 <br/>
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
+<img align="right" alt="coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
 
 <!-- <p align="left"> <a href="https://twitter.com/KumarHrithik10" target="blank"><img src="https://img.shields.io/twitter/follow/KumarHrithik10?logo=twitter&style=for-the-badge" alt="KumarHrithik10" /></a> </p> -->
 
