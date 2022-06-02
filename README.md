@@ -1,6 +1,6 @@
 
 
-<!-- <a href="#"><img width="100%" height="auto" src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" height="175px"/></a> -->
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kumar Hrithik</h1>
 <h3 align="center">I'm a passionate Full Stack Developer and Competitive Programmer from India.</h3>
@@ -60,7 +60,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/kumar-hrithik/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/kumar-hrithik/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/KumarHrithik10"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_the_wicked_soul/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
