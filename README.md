@@ -1,5 +1,7 @@
+<img src="http://propulsive.in/assets/img/service-icon/dev.gif" alt="web-development" />
+<br/>
 <h1 align="center">Hi 👋, I'm Kumar Hrithik</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from India</h3>
+<h3 align="center">Fast self-learner and result-oriented Aspiring Full-Stack Web Developer with a specialization in MERN Stack and DSA. A calm and focused problem solver</h3>
 <!-- <br/> -->
 <p align= "center">
 <img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
